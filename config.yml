@@ -1,0 +1,15 @@
+title: Stronka o Zuzi
+description: Troszkę tego i tamtego, z życia wzięte aspekty Zuzi Konopki. Warto odwiedzić!!!
+tagline: Hobby, nauka, wiara, ludzide i koty!!!
+
+preferences:
+    name: language
+    options:
+      - label: English
+        value: en
+      - label: Polish
+        value: pl
+        
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
