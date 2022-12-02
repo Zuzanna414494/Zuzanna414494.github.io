@@ -25,4 +25,8 @@ Nie powiem też, że nie kocham astronomii. Zdjęć Księżyca w każdej swojej 
 * Co więcej kocham KOTY. To tak piękne, urocze zwierzątka, bez których świat byłby niezwqykle szary i smutny. Koty dają ciepło, radość. Można się z nimi pobawić, pogłaskać je i przytulić, gdy masz zły dzień. Te małę puchate kuleczki wypełniają moje życie ciepłem i sierścią :)
 * Jestem też osobą wierzącą. Należę tu w Krakowie do wspólnoty dominikańskiej Beczka. (Każdego z całęgo serducha tam też zapraszam, jest MEGAAAAA). Wiara w moim życiu była zawsze, jest i będzie na zawsze. 
 
+## I NA SAM KONIEC MALUTKI CYTACIK:
+
+![CYTAT](https://dailyverses.net/images/pl/ubg/xl/przyslow-2-6-3.jpg)
+
 
