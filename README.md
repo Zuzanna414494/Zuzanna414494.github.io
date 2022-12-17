@@ -28,3 +28,13 @@ Nie powiem też, że nie kocham astronomii. Zdjęć Księżyca w każdej swojej 
 ## I NA SAMIUTKI KONIEC CYTAT:
 
 ![CYTAT](https://dailyverses.net/images/pl/ubg/xl/przyslow-2-6-3.jpg)
+
+
+## DOBRA, TO BYŁA LEKKA PODPUCHA, JESZCZE JEDNO MAM DLA WAS
+
+* W ramach studiów, jak wcześniej wspomniałam tworzymy aplikację wraz z zespołem. Ta aplikacja nosi nazwę StudUnity. Głównym celem naszej aplikacji jest pomoc biednym, zdesperowanym i zestresowanym studentom w zdaniu KAŻDEJ SESJI nawet tej, o której mówi się, ze jest niemożliwa do zaliczenia. 
+* Grupą docelową jak sama nazwa wskazuje są STUDENCI, ale nie premium, tylko KAZDY STUDENT, Z KAŻDEGO ZAKĄTKA POLSKI!!! 
+* W aplikacji znaleźć można każdy materiał z zajęc, najróżniejsze wykłady i ćwiczenia. Dla bardziej wtajemniczonych i umiejących dobrze szukać znajdzią się też zadania bardzo podobne do tych z kolosów i egzaminów :)
+* Aplikacja StudUnity zawiuera w sobie wszystko czego pragnie użytkownik: CUDOWNY INTERFEJS, PROSTOTA W OBSŁUDZE, BOGATY ZASÓB NOTATEK I WIELE, WIELE WIĘCEJ!!!
+
+![Cele naszej aplikacji](https://st.depositphotos.com/1734074/3683/v/600/depositphotos_36835841-stock-illustration-vector-icons-for-web-and.jpg)
