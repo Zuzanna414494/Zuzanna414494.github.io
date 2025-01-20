@@ -1,5 +1,3 @@
-#  About me - Zuzanna Konopka
-
 ## 1. Education
 
 * I am currently studying Computer Science and Intelligent Systems at the Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering at AGH University of Science and Technology in Kraków.
